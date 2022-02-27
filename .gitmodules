@@ -1,0 +1,4 @@
+[submodule "blog/public"]
+	path = blog/public
+	url = https://github.com/as2h/myblog.git
+	branch = main
